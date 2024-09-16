@@ -1,3 +1,6 @@
-Use this file to record your reflection on this assignment. 
-
-What worked, what didn't, what advice would you give someone taking this course in the future?
+**Object-ification Reflection** \
+**Lucy O'Brien** \
+\
+For this first assignment, I felt a bit out of my depth. I have coding experience, but I haven't coded something of this type in a long time. Most of what I work on is in R in SDS classes, which has a different goal and workflow than this program-centric assignment. I started as both professors advised in class materials — not on the keyboard, but with my notebook. I outlined what needed to get done (what was technically required of the assignment) and then mapped out how these things were connected, what they required, and the best way to approach the problem(s) I was having. This helped me wrap my head around the assignment in a way I hadn't before. \
+\
+After this, I got to coding. I once again felt stuck and out of my depth. I had no experience with object-oriented programming and thought the relatively simplistic examples in class hadn't prepared me for an assignment of this size. I refreshed myself on the class material, looked up things I was confused about, and made a primitive prototype of my code. While I had a good idea of where I was heading, the program did not work. The next day, I worked with a classmate with more experience in Python and could point out the parts where I had made small syntax errors that got in the way of functionality. Working in a pair allowed me to feel more comfortable with being stuck, especially when she said she had some similar issues running certain bits of the code. I made many more small errors, but I pushed through and got to a working program. For future work, I think a similar workflow should help me understand my own strengths and push through any issues.
